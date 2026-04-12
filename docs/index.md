@@ -1,15 +1,15 @@
-# Your MIP Name
+# PopMIP
 
-Welcome to **Your MIP Name** - a Model Intercomparison Project within CMIP.
+Welcome to **PopMIP** - a Model Intercomparison Project within CMIP.
 
 
 ## Overview
 
-Your MIP carries out coordinated Earth system model simulations to address [describe your scientific focus]. The primary objectives are to:
+PopMIP carries out coordinated evaluation and comparison of gridded population datasets to understand the differences between the datasets. The primary objectives are to:
 
-1. **[First objective]** - Describe the first main goal of your MIP
-2. **[Second objective]** - Describe the second main goal
-3. **[Third objective]** - Describe the third main goal
+1. **Evaluate the differences between griided population datasets** 
+2. **Advocate an emsemble approach of of multiple population datasets for climate impact analysis** 
+3. **Explore appraoches to evaluate the beleiveability of future population maps to a given SSP**
 
 Your MIP is part of the Coupled Model Intercomparison Project organised by the [World Climate Research Programme](https://www.wcrp-climate.org/).
 
@@ -39,9 +39,9 @@ Your MIP is part of the Coupled Model Intercomparison Project organised by the [
 
 For questions about Your MIP, please contact the co-chairs:
 
-- **[Co-chair Name]** - [Affiliation] - email@example.org
+- **Laurence Hawker** - [University of Bristol] - email@example.org
 - **[Co-chair Name]** - [Affiliation] - email@example.org
 
 ---
 
-*This MIP contributes to [relevant CMIP phase].*
+*This MIP contributes to CMIP7.*
