@@ -2,8 +2,8 @@ site_name: PopMIP
 site_description: A model intercomparison project for future population maps
 site_author: Laurence Hawker, University of Bristol
 site_url: https://wcrp-cmip.github.io/PopMIP/
-repo_url: https://github.com/WCRP-CMIP/PopMIP
-repo_name: WCRP-CMIP/PopMIP
+repo_url: https://github.com/laurencehawker/PopMIP
+repo_name: PopMIP
 
 # Use relative URLs within pages
 use_directory_urls: true
