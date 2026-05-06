@@ -1,7 +1,5 @@
 <img src="assets/popmip-ensemble-mark.png" alt="PopMIP Banner" style="width:100%; border-radius:8px;">
 
-# PopMIP
-
 Welcome to **PopMIP** - a Model Intercomparison Project within CMIP.
 
 ## Overview
