@@ -4,7 +4,6 @@
 
 Welcome to **PopMIP** - a Model Intercomparison Project within CMIP.
 
-
 ## Overview
 
 PopMIP carries out coordinated evaluation and comparison of gridded population datasets to understand the differences between the datasets. The primary objectives are to:
@@ -27,7 +26,7 @@ Your MIP is part of the Coupled Model Intercomparison Project organised by the [
 | [Publications](about/publications.md) | Key papers and citations |
 
 
-![Banner image](https://github.com/laurencehawker/PopMIP/blob/main/docs/assets/popmip-banner-1500x500.png)
+![Banner image](assets/popmip-banner-1500x500.png)
 
 
 ## Latest News
