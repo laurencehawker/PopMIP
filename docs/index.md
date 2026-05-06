@@ -1,3 +1,5 @@
+<img src="assets/popmip-ensemble-mark.png" alt="PopMIP Banner" style="width:100%; border-radius:8px;">
+
 # PopMIP
 
 Welcome to **PopMIP** - a Model Intercomparison Project within CMIP.
@@ -25,8 +27,6 @@ Your MIP is part of the Coupled Model Intercomparison Project organised by the [
 | [Publications](about/publications.md) | Key papers and citations |
 
 
-## Banner image placeholder
-
 ![Banner image](https://github.com/laurencehawker/PopMIP/blob/main/docs/assets/popmip-banner-1500x500.png)
 
 
@@ -40,7 +40,7 @@ Your MIP is part of the Coupled Model Intercomparison Project organised by the [
 For questions about Your MIP, please contact the co-chairs:
 
 - **Laurence Hawker** - [University of Bristol] - laurence.hawker@bristol.ac.uk
--
+
 
 ---
 
