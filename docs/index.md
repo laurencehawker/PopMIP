@@ -27,7 +27,7 @@ Your MIP is part of the Coupled Model Intercomparison Project organised by the [
 
 ## Banner image placeholder
 
-![Banner image](https://wcrp-cmip.org/wp-content/uploads/2022/11/EGU-event-banner.png)
+![Banner image](https://github.com/laurencehawker/PopMIP/blob/main/docs/assets/popmip-banner-1500x500.png)
 
 
 ## Latest News
@@ -39,8 +39,8 @@ Your MIP is part of the Coupled Model Intercomparison Project organised by the [
 
 For questions about Your MIP, please contact the co-chairs:
 
-- **Laurence Hawker** - [University of Bristol] - email@example.org
-- **[Co-chair Name]** - [Affiliation] - email@example.org
+- **Laurence Hawker** - [University of Bristol] - laurence.hawker@bristol.ac.uk
+-
 
 ---
 
