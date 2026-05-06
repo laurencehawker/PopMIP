@@ -11,7 +11,7 @@ use_directory_urls: true
 # Theme configuration
 theme:
   name: shadcn
-  icon: docs/assets/popmip-ensemble-mark.png
+  icon: assets/popmip-ensemble-mark.png
   show_title: true
   palette:
     primary: blue
