@@ -15,7 +15,6 @@ theme:
     primary: blue
     accent: cyan
   show_stargazers: false
-  logo: assets/popmip-ensemble-mark.png
 
 # Plugins
 plugins:
