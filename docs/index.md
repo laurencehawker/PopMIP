@@ -6,9 +6,9 @@ Welcome to **PopMIP** - a Model Intercomparison Project within CMIP.
 
 PopMIP carries out coordinated evaluation and comparison of gridded population datasets to understand the differences between the datasets. The primary objectives are to:
 
-1. **Evaluate the differences between griided population datasets** 
+1. **Evaluate the differences between gridded population datasets** 
 2. **Advocate an emsemble approach of of multiple population datasets for climate impact analysis** 
-3. **Explore appraoches to evaluate the beleiveability of future population maps to a given SSP**
+3. **Explore approaches to evaluate the beleiveability of future population maps for a given SSP**
 
 Your MIP is part of the Coupled Model Intercomparison Project organised by the [World Climate Research Programme](https://www.wcrp-climate.org/).
 
